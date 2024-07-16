@@ -1,9 +1,8 @@
-Decentralized Exchange on Rootstock with High-Throughput Data Oracles and Lightning Network Payments
-Project Title
-Decentralized Exchange on Rootstock with High-Throughput Data Oracles and Lightning Network Payments
+## Project Title
+### Decentralized Exchange on Rootstock with High-Throughput Data Oracles and Lightning Network Payments
 
-Project Description
-A decentralized exchange (DEX) built on the Rootstock sidechain, utilizing Anduro's high-throughput data oracles for real-time price feeds and Lightspark's Lightning Network integration for fast, low-cost transactions. The project includes a React frontend, Node.js backend, and smart contracts deployed on the Rootstock sidechain.
+## Project Description
+### A decentralized exchange (DEX) built on the Rootstock sidechain, utilizing Anduro's high-throughput data oracles for real-time price feeds and Lightspark's Lightning Network integration for fast, low-cost transactions. The project includes a React frontend, Node.js backend, and smart contracts deployed on the Rootstock sidechain.
 
 Track and Sidechain Selection
 Track: Sidechain Track
