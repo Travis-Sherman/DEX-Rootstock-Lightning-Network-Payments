@@ -135,4 +135,4 @@ Lightning Network Payments: Use the backend to process payments via the Lightnin
 [Link to the YouTube or Vimeo video showcasing the project’s functionality]
 
 GitHub Repository
-[Link to the project's GitHub repository with well-documented code]
+https://github.com/Travis-Sherman/DEX-Rootstock-Lightning-Network-Payments
